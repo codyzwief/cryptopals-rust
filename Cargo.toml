@@ -1,0 +1,6 @@
+[package]
+name = "cryptopals-rust"
+version = "0.1.0"
+authors = ["Cody Zwiefelhofer <cody@czwief.com>"]
+
+[dependencies]
